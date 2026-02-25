@@ -191,7 +191,7 @@ Segmentation reduced attack propagation risk but highlighted weaknesses in crede
 - Prevented lateral movement via firewall enforcement
 - Produced actionable security hardening recommendations
 
-- 📄[Read_report](https://drive.google.com/file/d/1FJW-GNNGe8k0kODb-1t0X4jifGtCYTl8/view?usp=sharing)
+- 📄[Read_Full_Report_Here](https://drive.google.com/file/d/1FJW-GNNGe8k0kODb-1t0X4jifGtCYTl8/view?usp=sharing)
 ---
 ## 👤 Author
 
